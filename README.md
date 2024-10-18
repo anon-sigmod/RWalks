@@ -2,7 +2,7 @@ The repo provides the code for RWalks and supplementary materials.
 ## Installation
 
 Follow these steps to set up the project:
-
+### Step 0: unzip CODE_AND_DATA.ZIP in your workspace
 ### Step 1: Create and Activate a Virtual Environment
 
 First, create a virtual environment and activate it.
